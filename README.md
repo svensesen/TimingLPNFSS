@@ -27,4 +27,4 @@ TraceTester: Contains functions for acquiring knowledge from lists of all the tr
 Verify-ProbExperiment: Contains code testing the running time of the VERIFY-PROB function  
 
 Furthermore, the Paper Graphs folder stores the PNP's and DFA's used by the experiments,
-the Results folder contains the experimental results and the Testing Graphs folder contains graphs used for testing
+the Results folder contains the experimental results and the Testing Graphs folder contains graphs used for testing.
