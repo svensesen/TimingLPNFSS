@@ -1,0 +1,26 @@
+l A B C D E F
+i q0
+s q0
+a q0 q1 A
+a q0 q0 -A
+s q1
+a q1 q2 A
+a q1 q1 -A
+s q2
+a q2 q3 A
+a q2 q2 -A
+s q3
+a q3 q4 A
+a q3 q3 -A
+s q4
+a q4 q5 A
+a q4 q4 -A
+s q5
+a q5 q6 A
+a q5 q5 -A
+s q6
+a q6 q7 A
+a q6 q6 -A
+s q7
+a q7 q7 +
+f q7

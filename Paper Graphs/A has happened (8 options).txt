@@ -1,0 +1,8 @@
+l A B C D E F G H
+s q0
+s q1
+a q0 q1 A
+a q0 q0 -A
+a q1 q1 +
+f q1
+i q0
